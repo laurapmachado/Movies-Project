@@ -8,5 +8,9 @@ However, the data was not enough to get good insights from it so I used other da
 
 
 **Data Sources:**
+
 https://letterboxd.com/laurapnhmachado/
+
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
